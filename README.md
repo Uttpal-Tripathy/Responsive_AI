@@ -46,6 +46,10 @@ responsive-ai/
 ├── LICENSE
 └── README.md
 
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/4a3d56d9-ee4b-4d7c-96e7-adafbaeab143" />
+
+
 ### Future Enhancements
 Voice AI
 Vision AI
@@ -53,6 +57,8 @@ Reinforcement Learning
 Quantum AI
 Federated AI
 Multi-Agent Systems
+
+
 
 ### Technologies Used
 Python
