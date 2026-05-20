@@ -22,3 +22,43 @@ pip install -r backend/requirements.txt
 ## Run
 
 uvicorn backend.app:app --reload
+
+## Map of initiating first ever Responsive AI app 
+
+responsive-ai/
+│
+├── backend/
+│   ├── app.py
+│   ├── ai_engine.py
+│   ├── memory.py
+│   ├── config.py
+│   ├── requirements.txt
+│   └── conversation_memory.json
+│
+├── docker/
+│   └── Dockerfile
+│
+├── frontend/
+│   └── README.md
+│
+├── .gitignore
+├── docker-compose.yml
+├── LICENSE
+└── README.md
+
+### Future Enhancements
+Voice AI
+Vision AI
+Reinforcement Learning
+Quantum AI
+Federated AI
+Multi-Agent Systems
+
+### Technologies Used
+Python
+FastAPI
+PyTorch
+Transformers
+Docker
+
+
